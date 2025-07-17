@@ -1,5 +1,6 @@
 baseURL = 'https:infra00005.netlify.com"
 languageCode = 'en-us'
 title = 'Infra'
-theme = 'paper'
+theme = "hugo-blog-awesome"
+
 
